@@ -64,6 +64,8 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/cristian-suzuki/"></a> [LinkedIn](https://www.linkedin.com/in/cristian-suzuki/) 
 
+<a href="mailto:cristiansuzuki5@hotmail.com"></a> [Email](mailto:cristiansuzuki5@hotmail.com) 
+
 <hr></hr>
 
 ![](https://komarev.com/ghpvc/?username=cristiansuzuki&color=blue&style=flat)
