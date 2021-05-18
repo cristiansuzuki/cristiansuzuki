@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 
 <h1> Olá =)</h1> 
 
-![](https://komarev.com/ghpvc/?username=cristiansuzuki&color=blue&style=flat)
 <h3>💻 Sobre mim:</h3>
 
 <p> Me chamo Cristian Suzuki, tenho 23 anos e sou desenvolvedor com foco em Python/Django 🐍 </p>
@@ -65,5 +64,8 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/cristian-suzuki/"></a> [LinkedIn](https://www.linkedin.com/in/cristian-suzuki/) 
 
+<hr></hr>
+
+![](https://komarev.com/ghpvc/?username=cristiansuzuki&color=blue&style=flat)
 
 
