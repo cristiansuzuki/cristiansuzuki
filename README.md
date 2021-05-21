@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 <h3> ⚜ Estatísticas: </h3>
 
-![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiansuzuki&show_icons=true&count_private=true&theme=vision-friendly-dark)
+![Cristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristiansuzuki&show_icons=true&count_private=true&include_all_commits=true&theme=vision-friendly-dark)
 
 <hr></hr>
 
