@@ -30,7 +30,7 @@
   <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
   
 </p>
-![Snake animation](https://github.com/cristiansuzuki/cristiansuzuki/blob/output/github-contribution-grid-snake.svg)
+
 <hr></hr>
 
 <h3> ⚜ Estatísticas: </h3>
@@ -55,4 +55,7 @@
 
 ![](https://komarev.com/ghpvc/?username=cristiansuzuki&color=blue&style=flat)
 
+<div>
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
 
