@@ -53,9 +53,11 @@
 
 <hr></hr>
 
+
+![](https://github.com/cristiansuzuki/cristiansuzuki/blob/output/github-contribution-grid-snake.svg)
+
+
+
 ![](https://komarev.com/ghpvc/?username=cristiansuzuki&color=blue&style=flat)
 
-<div>
-![Snake animation](https://github.com/cristiansuzuki/cristiansuzuki/blob/output/github-contribution-grid-snake.svg)
-</div>
 
