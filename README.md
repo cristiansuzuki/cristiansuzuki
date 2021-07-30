@@ -4,7 +4,7 @@
 <h3>💻 Sobre mim:</h3>
 
 <p> Me chamo Cristian Suzuki, tenho 23 anos e sou desenvolvedor com foco em Python/Django 🐍 </p>
-<p> Atualmente estou cursando o último período do curso Sistemas de Informação 🎓</p>
+<p> Bacharel em Sistemas de Informação 🎓</p>
 <p> No momento busco aprender mais sobre desenvolvimento web de forma geral 📚</p>
 
 <hr></hr>
