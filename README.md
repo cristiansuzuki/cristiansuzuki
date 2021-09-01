@@ -3,7 +3,7 @@
 
 <h3>💻 Sobre mim:</h3>
 
-<p> Me chamo Cristian Suzuki, tenho 23 anos e sou desenvolvedor com foco em Python/Django 🐍 </p>
+<p> Me chamo Cristian Suzuki, tenho 23 anos e sou desenvolvedor com foco em Python/Django e JS/React/ReactNative </p>
 <p> Bacharel em Sistemas de Informação 🎓</p>
 <p> No momento busco aprender mais sobre desenvolvimento web de forma geral 📚</p>
 
@@ -13,9 +13,13 @@
 <p>
 <img height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" />
 <img height="100" width="100" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" />
+  <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
+<img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" />
 <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" />
 <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+
+  
 </p>
 
 
