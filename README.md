@@ -29,7 +29,7 @@
 <h3>⚜ Ferramentas: </h3>
 
 <p>
-  <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" />
+  <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
   &nbsp;&nbsp;&nbsp;
   <img height="80" width="80" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" />
   
