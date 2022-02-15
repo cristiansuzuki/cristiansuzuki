@@ -1,9 +1,9 @@
 
-<h1> Olá =)</h1> 
+<h1> Olá</h1> 
 
 <h3>💻 Sobre mim:</h3>
 
-<p> Me chamo Cristian Suzuki, tenho 24 anos e sou desenvolvedor com foco em Python/Django e JS/React/ReactNative </p>
+<p> Me chamo Cristian Suzuki e sou desenvolvedor com foco em Python e JavaScript </p>
 <p> Bacharel em Sistemas de Informação 🎓</p>
 <p> No momento busco aprender mais sobre desenvolvimento web de forma geral 📚</p>
 
