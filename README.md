@@ -5,7 +5,7 @@
 
 <p> Me chamo Cristian Suzuki e sou desenvolvedor com foco em Python e JavaScript </p>
 <p> Bacharel em Sistemas de Informação 🎓</p>
-<p> No momento busco aprender mais sobre desenvolvimento web de forma geral 📚</p>
+<p> No momento busco aprender mais sobre desenvolvimento web de forma geral.📚</p>
 
 <hr></hr>
 
